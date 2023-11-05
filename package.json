@@ -1,0 +1,11 @@
+{
+  "name": "geekbots",
+  "version": "1.0.0",
+  "description": "College Club Management Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshwardhan Saindane",
+  "license": "ISC"
+}
