@@ -1,0 +1,19 @@
+.list-mem{
+    text-indent: center;
+    margin-left: 40px;
+    background-color: burlywood;
+}
+.info{
+    position: relative;
+    margin-top: 265px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#carouselExample{
+    margin-left: 120px;
+    width: 1000px;
+    height:400px;
+}
+.head{
+    background-color: white;
+}
